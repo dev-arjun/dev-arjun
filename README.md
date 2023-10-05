@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @dev-arjun
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning -> SDLC
-- 💞️ I’m looking to collaborate on -> A developer
+Hi there, I am Nagarjun, I am currently learning Java + DSA as a preparation to getting into a product based company as a SDE
 - 📫 You can reach me on twitter -> @tweets_arjun
 
 <!---
